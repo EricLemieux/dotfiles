@@ -10,3 +10,9 @@ echo "backed up the vimrc file"
 
 cp ~/.gitconfig ./
 echo "backed up the git config file"
+
+cp -r ~/.i3 ./
+echo "backed up i3 config"
+
+cp -r ~/.config/compton/ ./
+echo "backed up compton config"
