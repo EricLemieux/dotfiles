@@ -1,0 +1,20 @@
+!Xresources file
+xterm*background: #333333
+xterm*foreground: #DDDDDD
+
+xterm*color0: #333333
+xterm*color1: #554444
+xterm*color2: #335533
+xterm*color3: #555577
+xterm*color4: #777799
+xterm*color5: #999999
+xterm*color6: #AACC99
+xterm*color7: #99BBAA
+xterm*color8: #333333
+xterm*color9: #554444
+xterm*color10: #335533
+xterm*color11: #555577
+xterm*color12: #777799
+xterm*color13: #999999
+xterm*color14: #AACC99
+xterm*color15: #99BBAA
