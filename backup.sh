@@ -16,3 +16,6 @@ echo "backed up i3 config"
 
 cp -r ~/.config/compton/ ./
 echo "backed up compton config"
+
+cp ~/.Xresources ./
+echo "backed up Xresources file"
