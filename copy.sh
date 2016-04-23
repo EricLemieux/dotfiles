@@ -16,3 +16,7 @@ echo "i3 settings copied"
 
 cp -r ./compton ~/.config/
 echo "copton setttings copied"
+
+cp ./.Xresources ~/
+echo "Xresources copied"
+
